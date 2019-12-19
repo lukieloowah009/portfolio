@@ -1,0 +1,136 @@
+.header-color{
+  background: #283c86;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.landing-page{
+  background: #283c86;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-img{
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  padding-left: 5em;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  padding-right: 5em;
+  margin-left: 35%;
+}
+
+.banner-text{
+  background-color: black;
+  opacity: 0.8;
+  margin: auto;
+  border-radius: 10px;
+  width:75%;
+}
+
+.banner-text h1{
+  margin: auto;
+  font-size:66px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text p{
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  margin: auto;
+}
+
+.social-links{
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 50%;
+}
+
+.social-links i{
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+.landingpage-drawer{
+  color: red;
+}
+
+.aboutme-message{
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.projects-grid{
+  display:flex;
+}
+
+.resume-grid1{
+  display:flex;
+}
+
+.resume-grid2{
+  display:flex;
+  padding-top: 3em;
+}
+
+.contact-body{
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2{
+  font-family: 'Anton', sans-serif;
+}
+
+.contact-grid p{
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr{
+  border-top:5px dotted black;
+  width: 50%;
+  margin: auto
+}
+
+.contact-list i{
+  font-size: 66px;
+  padding-right: 5rem;
+}
+
+.resume-right-col{
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+.project_tiles{
+  display: flex;
+  
+}
+

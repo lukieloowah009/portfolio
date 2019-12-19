@@ -40,7 +40,7 @@ class Resume extends Component {
                             <h5>Email</h5>
                             <p>swah@ufl.edu | lukieloowah009@gmail.com</p>
                             <h5>Website</h5>
-                            <p> https://lukieloowah009.github.io/personalwebsite</p>
+                            <p> https://lukieloowah009.github.io/portfolio</p>
                             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
                             <Button variant="outlined" color="primary">
                                 <a href="../Files/Resume.pdf" class="button" download>

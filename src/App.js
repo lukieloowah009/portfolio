@@ -11,7 +11,7 @@ function App() {
       <Layout>
           <Header className="header-color" title="My Portfolio" scroll>
               <Navigation>
-                    <Link to="/">Home</Link>
+                    <Link to="/portfolio">Home</Link>
                     <Link to="/contact">Contact</Link>
                     <Link to="/projects">Projects</Link>
                     <Link to="/resume">Resume</Link>
@@ -19,10 +19,10 @@ function App() {
           </Header>
           <Drawer title="Navigation" className="landingpage-drawer">
               <Navigation>
-                    <Link to="/">Home</Link>
+                    <Link to="/portfolio">Home</Link>
                     <Link to="/contact">Contact</Link>
                     <Link to="/projects">Projects</Link>
-                    <a href="/resume">Resume</a>
+                    <Link to="/resume">Resume</Link>
               </Navigation>
           </Drawer>
           <Content>

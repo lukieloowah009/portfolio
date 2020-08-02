@@ -26,7 +26,9 @@ class Resume extends Component {
                             <h4 style={{ color: 'grey' }}>Enthusiastic Developer</h4>
                             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
                             <p>
-                                Ambitious developer with a demonstrated history of working in a software development sector using Express, React, Laravel with MySQL. Skilled in Object Oriented Programming Languages: Java, C++, PHP as well as soft skills: Teamwork and Communication. Familiar with Agile Software Development. Currently pursuing a Bachelor of Science in Computer Science with a minor in Mass Communication at the University of Florida.
+                                I have always been curious about the inner workings and the intricate details of things. This childhood habit was carried over to my present self which motivates me to solve problems and refine my creativity in software development. Coupled with hard work ethics and extensive work experience, I have been able to grow individually and professionally. I have worked with full-stack web development as well as with microservices that integrates cloud technologies such as Azure.
+
+Another passion of mine is exploring different cultural viewpoints. Having a chance of attending a boarding high school located in Norway, where students from 98 different countries live and study side by side, I have become an individual willing to embrace diversity and hold meaningful conversations. 
                             </p>
                             <hr style={{ borderTop: '3px solie #833fb2', width: '50%' }} />
                             <h5>Address</h5>

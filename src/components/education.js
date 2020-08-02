@@ -28,6 +28,17 @@ class Education extends Component {
                 <hr />
                 <Grid>
                     <Cell col={12}>
+                        <h7><strong>=> Citrix Systems ​– ​Software Engineer Intern (May 2020 – August 2020)</strong></h7>
+                        <p>
+                            <ul>
+                                <li>Worked on building a bot to be used as an automation tool as part of a new microservice.</li>
+                                <li>Created and integrated Azure functions and services such as Trigger Function, Azure Service Bus Function, and Queue and Azure Key Vault into the bot.</li>
+                                <li>Wrote maintainable and scalable code with unit tests using NUnit.</li>
+                                <li>Implemented Restful APIs endpoints for the microservice.</li>
+                                <li>Built Splunk dashboard with queries that relay meaningful loggings and visualization allowing for easier debugging.</li>
+                            </ul>
+                        </p>
+                        <br />
                         <h2>Software Engineering Experience</h2>
                         <h7><strong>=> Nexlabs - Software Engineer Intern (May 2019 - August 2019)</strong></h7>
                         <p>BudgetingTool – Web Application, PHP Laravel, Vue.js and MySQL <br />
@@ -106,9 +117,8 @@ class Education extends Component {
                     <Cell col={12}>
                         <h2>Skills and Technologies</h2>
                         <p>
-                            C++, Java, PHP, Agile, Laravel, SQL, Git, React, Express, Assembly, Matlab, Mongodb
+                            C#, .Net, Azure, Protocol Buffers, Splunk, C++, Java, PHP, Agile, Laravel, SQL, Git, React, Express, Assembly, Matlab, Mongodb
                         </p>
-
                     </Cell>
                 </Grid>
                 <hr />
